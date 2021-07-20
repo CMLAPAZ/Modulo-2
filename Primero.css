@@ -2,4 +2,30 @@
 p{ 
     color: red ;
     font-family: Verdana;
+
+}
+h3{
+        color: blue;
+        background-color: cyan;
+        text-align-last: center;
+}
+h4 {
+    background-color: slateblue;
+    text-transform: uppercase;
+}
+#cabecera {
+    text-align-last: center;
+    text-overflow: initial;
+    width: auto;
+    margin: auto;
+   
+    background-color: darkgrey;
+
+}
+
+#general {
+    width: 960px;
+    height: auto;
+    margin: auto;
+    background-color: slategrey;
 }
